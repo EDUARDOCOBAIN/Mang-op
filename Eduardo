@@ -1,0 +1,19 @@
+{
+
+"title": "<One Piece>",
+"description": "<manga description>"
+"artist": "<manga artist>",
+"author": "<Eiichiro Oda>",
+"cover": "<mangacoverurl.jpg>",
+"50": {
+"<1058>": {
+"title": "<Novo Imperador>",
+"volume": "<volume number>",
+"groups": {
+"<group name>": "/proxy/api/imgur/
+chapter/<imgur id>/"
+},
+"last_updated": "1616368746"
+},
+}
+}
